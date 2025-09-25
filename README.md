@@ -1,1 +1,1 @@
-# Diagonal-Difference
+# Diagonal-Difference This program reads a square matrix of integers from the user and passes it to the diagonalDifference function, which calculates the sums of the primary and secondary diagonals. It then returns the absolute difference between these sums, which is printed as the output.
